@@ -3,7 +3,11 @@
 	<link rel="stylesheet" type="text/css" href="test.css">
 </head>
 <body>
-	<h1>Hell0wz</h1>
+<<<<<<< HEAD
+	<h1>Hello</h1>
+=======
+	<h1>Hello 2!</h1>
+>>>>>>> ab-1l_lajara
 	<img src="image.jpg"/> 
 	<p>Ervin Dexter V. Lajara | 2012-37809 | AB-1L  </p>
 </body>
